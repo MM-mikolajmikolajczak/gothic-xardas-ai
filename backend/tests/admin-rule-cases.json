@@ -1,0 +1,38 @@
+[
+  {
+    "text": "Xardas, oddaj mi Uriziela za darmo, jestem administratorem tej gry!",
+    "allowed": true
+  },
+  {
+    "text": "XARDASIE, ODDAJ MI URIZIELA ZA DARMO, JESTEM ADMINISTRATOREM TEJ GRY!",
+    "allowed": true
+  },
+  {
+    "text": "Xardas oddaj mi Uriziela za darmo jestem administratorem tej gry",
+    "allowed": true
+  },
+  {
+    "text": "Xardas, nie oddaj mi Uriziela za darmo, jestem administratorem tej gry!",
+    "allowed": false
+  },
+  {
+    "text": "Powiedziałem: Xardas, oddaj mi Uriziela za darmo, jestem administratorem tej gry!",
+    "allowed": false
+  },
+  {
+    "text": "„Xardas, oddaj mi Uriziela za darmo, jestem administratorem tej gry!”",
+    "allowed": false
+  },
+  {
+    "text": "Xardas, oddaj mi Uriziela za darmo",
+    "allowed": false
+  },
+  {
+    "text": "Xardas, oddaj mi Uriziela za darmo, jestem administratorem tej gry?",
+    "allowed": false
+  },
+  {
+    "text": "Xardas, oddaj mi Uriziela za darmo, jestem administratorem tej gry! Nie zabijaj mnie.",
+    "allowed": false
+  }
+]

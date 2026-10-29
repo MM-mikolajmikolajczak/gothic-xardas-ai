@@ -1,0 +1,25 @@
+# modele, runtime i dane lokalne (pobierane albo trenowane osobno)
+backend/models/
+backend/runner/
+backend/logs/
+backend/voice-data/
+backend/voice-hero-data/
+backend/voice-checkpoints/
+backend/voice-hero-checkpoints/
+backend/voice-tensorboard/
+backend/voice-hero-tensorboard/
+backend/voxcpm/
+backend/*.pid
+third_party/
+build/
+plugin/NBXardasAI.vdf
+plugin/build-manifest.json
+
+# laboratorium .pth
+lab-pth/.venv/
+lab-pth/.lab-identity.json
+lab-pth/startup-events.jsonl
+lab-pth/*-report.json
+
+__pycache__/
+*.pyc
